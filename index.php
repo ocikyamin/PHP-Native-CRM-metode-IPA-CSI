@@ -38,7 +38,7 @@ if (isset($_GET['v'])) {
                 <div class="row p-5">
                     <div class="mx-auto col-md-8 col-lg-6 order-lg-last">
                         <img class="rounded-circle img-fluid border" style="height:420px;width:414px;"
-                            src="./public/product/new/001.jpg">
+                            src="./public/product/new/008.jpg">
                     </div>
                     <div class="col-lg-6 mb-0 d-flex align-items-center">
                         <div class="text-align-left align-self-center">
@@ -174,7 +174,7 @@ if (isset($_GET['v'])) {
             <div class="col-12 col-md-4 mb-4">
                 <div class="card h-100">
                     <a href="#">
-                        <img src="./public/product/new/001.jpg" class="card-img-top img-thumbnail"
+                        <img src="./public/product/new/008.jpg" class="card-img-top img-thumbnail"
                             style="height:420px;width:414px;" alt="...">
                     </a>
                     <div class="card-body">
